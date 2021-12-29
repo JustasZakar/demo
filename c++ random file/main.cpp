@@ -1,0 +1,1 @@
+int belekas belekur ir betkada ;
